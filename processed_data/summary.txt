@@ -1,0 +1,8 @@
+Knowledge Graph Summary
+==================================================
+n_entities: 9743
+n_relations: 8
+n_triples: 13706
+n_train: 10964
+n_valid: 1370
+n_test: 1372

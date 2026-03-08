@@ -1,0 +1,106 @@
+Sample Questions for Interpol Knowledge Graph
+🏆 RANK Intent (Most/Top/Which has most)
+Countries
+
+Which countries have the most sanctioned individuals?
+What are the top 5 countries with sanctioned people?
+Which nations have the highest number of sanctions?
+Rank countries by number of sanctioned individuals
+
+Organizations
+
+Which organizations have the most sanctioned people?
+What are the top companies with sanctioned individuals?
+Which organizations employ the most sanctioned people?
+
+Sanction Types
+
+What are the most common types of sanctions?
+Which sanction categories are most frequent?
+
+
+🔢 COUNT Intent (How many/Total)
+General Counts
+
+How many people are sanctioned?
+How many sanctioned individuals are there in total?
+What is the total count of sanctions?
+
+Specific Counts
+
+How many people are sanctioned from Russia?
+How many organizations are in the database?
+How many different types of sanctions exist?
+How many countries have sanctioned individuals?
+
+
+📋 LIST Intent (List/Show all)
+Entities
+
+List all sanction types
+Show all countries with sanctioned individuals
+List all organizations in the database
+What are the different sanction categories?
+
+Filtered Lists
+
+List all people sanctioned for terrorism
+Show all Russian nationals who are sanctioned
+List organizations from the United States
+
+
+🔍 FIND Intent (Find/Who/Show me)
+People
+
+Find people from Russia
+Who are the sanctioned individuals from India?
+Show me people sanctioned for drug trafficking
+Find individuals working for Russian organizations
+
+Organizations
+
+Find organizations from China
+Show me companies that employ sanctioned individuals
+Which organizations are linked to terrorism sanctions?
+
+Combined Queries
+
+Find people from Pakistan who work for organizations
+Show me sanctioned individuals from the United States
+Find people sanctioned for both terrorism and drug trafficking
+
+
+🎯 Complex/Advanced Questions
+Multi-relationship
+
+Which organizations have people from multiple countries?
+Show connections between Russian individuals and organizations
+Find people who work for sanctioned organizations
+
+Comparative
+
+Compare sanctions between Russia and China
+Which has more sanctions: India or Pakistan?
+Are there more terrorism or drug trafficking sanctions?
+
+Trend Questions (if you have date data)
+
+When were most sanctions imposed?
+Which countries received the most sanctions recently?
+
+
+🧪 Test Questions by Category
+Quick Tests (Should work immediately)
+1. Which countries have the most sanctioned individuals?
+2. How many people are sanctioned?
+3. List all sanction types
+4. Find people from Russia
+Medium Complexity
+5. What are the top 10 countries with sanctions?
+6. How many people are sanctioned for terrorism?
+7. List organizations that employ sanctioned people
+8. Show me people from India who are sanctioned
+Advanced (May need schema adjustments)
+9. Which organizations have the most connections to sanctioned individuals?
+10. Find people sanctioned for multiple reasons
+11. Which countries have both terrorism and drug trafficking sanctions?
